@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f2ba883-faf0-47c8-813e-fb1cbdc70733" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Sites\project\railsgirls\public\index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/ideas/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/ideas/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/idea.rb" afterPath="$PROJECT_DIR$/app/models/idea.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/ideas/show.html.erb" afterPath="$PROJECT_DIR$/app/views/ideas/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/railsgirls.iml" afterPath="$PROJECT_DIR$/.idea/railsgirls.iml" />
     </list>
     <ignored path="railsgirls.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +22,8 @@
     <file path="/show.html.erb" changelist="7f2ba883-faf0-47c8-813e-fb1cbdc70733" time="1377340741203" ignored="false" />
     <file path="/index.json.jbuilder" changelist="7f2ba883-faf0-47c8-813e-fb1cbdc70733" time="1377340839457" ignored="false" />
     <file path="/show.json.jbuilder" changelist="7f2ba883-faf0-47c8-813e-fb1cbdc70733" time="1377340844723" ignored="false" />
-    <file path="/Gemfile" changelist="7f2ba883-faf0-47c8-813e-fb1cbdc70733" time="1377344403905" ignored="false" />
+    <file path="/Gemfile" changelist="7f2ba883-faf0-47c8-813e-fb1cbdc70733" time="1377346428718" ignored="false" />
+    <file path="$PROJECT_DIR$/log/development.log" changelist="7f2ba883-faf0-47c8-813e-fb1cbdc70733" time="1377346280768" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,10 +70,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.json.jbuilder" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.json.jbuilder" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/ideas/index.json.jbuilder">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="0" selection-end="131" vertical-scroll-proportion="0.12686567">
+            <state line="4" column="0" selection-start="0" selection-end="131" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="25" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
+            <state line="11" column="9" selection-start="240" selection-end="240" vertical-scroll-proportion="0.25373134">
               <folding />
             </state>
           </provider>
@@ -167,11 +162,11 @@
         <option value="$PROJECT_DIR$/app/views/ideas/show.json.jbuilder" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/models/idea.rb" />
         <option value="$PROJECT_DIR$/app/views/ideas/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/views/ideas/show.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -788,13 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="25" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/idea.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="42" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
@@ -832,7 +820,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/ideas/index.json.jbuilder">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="0" selection-end="131" vertical-scroll-proportion="0.12686567">
+        <state line="4" column="0" selection-start="0" selection-end="131" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="9" selection-start="240" selection-end="240" vertical-scroll-proportion="0.25373134">
           <folding />
         </state>
       </provider>
